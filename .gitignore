@@ -1,6 +1,8 @@
 node_modules/
 .expo/
 dist/
+coverage/
+.nyc_output/
 npm-debug.*
 *.jks
 *.p8
